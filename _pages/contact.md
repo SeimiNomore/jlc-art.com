@@ -5,7 +5,8 @@ title: Contacts
 description:
 ---
 
-## For Art Inquiries and Connections 
+### For Art Inquiries and Connections
+---
 
 To inquire about the artworks of JLC-ART or to discuss collaborations, exhibitions, or investment opportunities, please reach out to *Emerson Bell*, the designated artist liaison for J.L. Christian. Emerson provides seamless communication and professional guidance, ensuring all inquiries are handled with care and precision.  
 
