@@ -1,6 +1,6 @@
 links:
 - title: Codex
-  url: ./_posts.html
+  url: ./index.html
 - title: About
   url: ./about.html
 - title: Contact
