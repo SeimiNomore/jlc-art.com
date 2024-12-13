@@ -23,7 +23,7 @@ With a focus on themes of mythology and untold historical perspectives, JLC-ART 
  
 <br>
 
-![JLC](assets/img/JLC-art2.png)
+![JLC](assets/img/JLC-art3.png)
 <br>
 <br>
 
