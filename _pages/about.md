@@ -7,7 +7,7 @@ description: Learn more about JLC-ART and the vision behind the Artworks Codex.
 
 
 
-> "I'm base on a true story." -J.L. Christian
+> "I'm based on a true story." -J.L. Christian
 
 
 
