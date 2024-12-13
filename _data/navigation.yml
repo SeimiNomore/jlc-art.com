@@ -3,6 +3,8 @@ links:
   url: ./index.html
 - title: About
   url: ./about.html
+- title: Contact
+  url: ./contact
 - title: Search
   url: ./search.html
 - title: Rss
