@@ -22,4 +22,3 @@ To inquire about the artworks of JLC-ART or to discuss collaborations, exhibitio
 
 e. EmersonBell.GAAH.asst@gmail.com
 
-Let Emerson be your guide to the world of JLC-ART.
