@@ -1,0 +1,94 @@
+---
+layout: post
+title: "Art Money"
+date: 2024-12-13 06:29:SS +0000
+---
+Blogging about your artwork *while in the midst of creation* can be a powerful way to draw your audience into your creative process. Here's a structure for "in-progress" blogging:
+
+---
+
+### 1. Working Title**  
+Use a title that reflects the ongoing nature of your work.  
+*Example:* *"Behind the Canvas: Developing ‘Above All’"*  
+
+---
+
+### 2. Current Status**  
+- Briefly describe where you are in the creative process.  
+- Share what you’re working on right now.  
+*Example:* *"The foundation of this piece is complete, and I’m now layering textures to build depth and convey the story of brotherhood."*
+
+---
+
+### 3. The Spark**  
+- Share what initially inspired this work or what new ideas emerged recently.  
+*Questions to guide you:*  
+  - Did anything unexpected shape your vision for the piece?  
+  - Have recent events, thoughts, or discoveries influenced your direction?  
+
+---
+
+### 4. Process Update**  
+- Detail what you’ve accomplished so far and how you’ve approached it.  
+- Mention any experiments, new techniques, or changes in direction.  
+*Example:*  
+  - *"I started by mapping constellations over the composition, but I’m rethinking how they align with the central theme of struggle and unity."*
+
+---
+
+### 5. Challenges and Evolving Thoughts**  
+- Reflect on challenges you’re facing as the piece takes shape.  
+- Share any shifts in perspective or breakthroughs you’ve had.  
+*Example:*  
+  - *"Initially, I wanted to use bold reds for passion, but they overwhelmed the piece. I’m exploring muted tones instead."*  
+
+---
+
+### **6. Open Questions**  
+- Pose questions you’re grappling with in your process.  
+- Invite your audience to weigh in or share their perspectives.  
+*Example:*  
+  - *"Should I make the figures more abstract, or keep them realistic to preserve their emotional depth?"*
+
+---
+
+### **7. Inspirations and Resources**  
+- Share what’s fueling your creativity at the moment:  
+  - Books, music, films, or artworks you’re drawing from.  
+  - Historical or cultural research that’s guiding your vision.  
+*Example:*  
+  - *"I’ve been listening to jazz from the Harlem Renaissance—it’s shaping how I approach rhythm in the composition."*
+
+---
+
+### **8. Visuals and Sneak Peeks**  
+- Include photos of the work in progress, sketches, or detail shots.  
+- Share mood boards, color palettes, or inspiration collages.  
+*Tip:* Keep a mix of intrigue and detail, so readers stay curious about the final piece.
+
+---
+
+### **9. Reflection on the Journey**  
+- Share how this stage of creation feels for you.  
+- Highlight any emotions or thoughts about where the work is heading.  
+*Example:*  
+  - *"It’s exciting and a little daunting to see this piece evolve—it feels like the story is revealing itself to me as I go."*
+
+---
+
+### **10. Call-to-Action**  
+- Encourage your audience to stay tuned for updates or interact with you.  
+*Example:*  
+  - *"I’d love to hear your thoughts on how I’m incorporating historical references—let me know in the comments!"*  
+  - *"Follow me on Instagram for real-time updates as this piece unfolds."*
+
+---
+
+### **Optional Elements for Mid-Creation Blogs**  
+1. **Mini Video Clips:** Record yourself explaining your thoughts as you paint or sketch.  
+2. **Audio Notes:** Share short audio reflections about your work.  
+3. **Polls or Feedback:** Use polls to get input from your audience on elements like color or style.
+
+---
+
+Blogging mid-creation is about sharing your process authentically while engaging your audience in the art’s journey. Let me know if you’d like help drafting a post like this!
