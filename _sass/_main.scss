@@ -134,6 +134,7 @@ strong, b {
 }
 
 .posts li {
+	width: 400px;
 	align-items:center;
 	display:flex;
 	justify-content:space-between;
@@ -155,7 +156,6 @@ strong, b {
 
 .post ul, .project ul, .post ol  {
 	//list-style-position: inside;
-	width: 400px;
 }
 
 main {
