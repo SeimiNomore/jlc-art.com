@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+
 description: Learn more about JLC-ART and the vision behind the Artworks Codex.
 ---
 
