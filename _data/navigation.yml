@@ -1,11 +1,11 @@
 links:
 - title: Codex
-  url: /index.html
-- title: About
-  url: /about.html
+  url: /JLC-ART/index.html
+- title: /JLC-ART/About
+  url: /JLC-ART/about.html
 - title: Contact
-  url: /contact
+  url: /JLC-ART/contact
 - title: Search
-  url: /search.html
+  url: /JLC-ART/search.html
 - title: Rss
   url: /atom.xml
