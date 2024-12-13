@@ -54,7 +54,7 @@ defaults:
 
   -
     scope:
-      path: "_site"
+      path: "archives"
       type: "archives"
     values:
       layout: "archives"
