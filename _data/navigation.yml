@@ -1,9 +1,9 @@
 links:
 - title: Codex
-  url: JLC-ART/
+  url: JLC-ART/index.html
 - title: About
-  url: JLC-ART/about
+  url: JLC-ART/about.html
 - title: Search
-  url: JLC-ART/search
+  url: JLC-ART/search.html
 - title: Rss
   url: JLC-ART/atom.xml
