@@ -51,18 +51,21 @@ defaults:
       type: "about"
     value: 
       layout: "about"
+
+  -
+    scope:
+      path: "_site"
+      type: "archives"
+    values:
+      layout: "archives"
+
   -
     scope:
       path: "contacts"
       type: "contacts"
     values:
       layout: "contacts"
-  -
-    scope:
-      path: "_pages"
-      type: "pages"
-    values:
-      layout: "page"
+
   -
     scope:
       path: "_post"
