@@ -56,7 +56,7 @@ defaults:
       path: "contacts"
       type: "contacts"
     values:
-      layout: "default"
+      layout: "contacts"
   -
     scope:
       path: "_pages"

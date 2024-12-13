@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Contacts
+
+description:
 ---
 
 For Art Inquiries
