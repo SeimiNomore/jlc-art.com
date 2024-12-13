@@ -1,11 +1,11 @@
 links:
 - title: Codex
-  url: ./index.html
+  url: /index.html
 - title: About
-  url: ./about.html
+  url: /about.html
 - title: Contact
-  url: ./contact
+  url: /contact
 - title: Search
-  url: ./search.html
+  url: /search.html
 - title: Rss
-  url: ./atom.xml
+  url: /atom.xml
