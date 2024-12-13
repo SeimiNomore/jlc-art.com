@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 description: Learn more about JLC-ART and the vision behind the Artworks Codex.
 ---
+
+
 ## About the Artist
 
 
 > "I'm base on a true story." -J.L. Christian
-
-
 
 
 
