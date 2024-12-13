@@ -43,9 +43,15 @@ collections:
     permalink: /:year/:month/:day/:slug
   
 defaults:
+  - 
+    scope: 
+      path: "about"
+      type: "about"
+    value: 
+      loayout: "about"
   -
     scope:
-      path: "_contacts"
+      path: "contacts"
       type: "contacts"
     values:
       layout: "default"
@@ -57,7 +63,7 @@ defaults:
       layout: "page"
   -
     scope:
-      path: ""
+      path: "_post"
       type: "posts"
     values:
       layout: "post"
