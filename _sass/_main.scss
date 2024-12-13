@@ -64,7 +64,7 @@ pre {
 }
 
 img {
-	max-width:48%;
+	max-width:100%;
 }
 
 hr {
@@ -162,7 +162,7 @@ main {
 	
 	display:flex;
 	flex-wrap:wrap;
-	max-width:48rem;
+	max-width:50rem;
 	margin:2rem auto;
 	padding:1rem;
 }
@@ -191,10 +191,10 @@ nav ul {
 }
 
 section {
-	
+	width: 250px;
 	flex-basis:0;
 	flex-grow:999;
-	min-width: 70px;
+	min-width:70%;
 	display:flex;
 	flex-direction:column;
 	
