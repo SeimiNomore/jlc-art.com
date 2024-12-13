@@ -15,8 +15,9 @@ To inquire about the artworks of JLC-ART or to discuss collaborations, exhibitio
 - Private viewings and consultations  
 - Collaboration or representation requests  
 
-**Reach Emerson Bell via:**  
-Contact Details: 
+
+**Reach Emerson Bell via:**
+*Contact Details:* 
 
 e. EmersonBell.GAAH.asst@gmail.com
 
