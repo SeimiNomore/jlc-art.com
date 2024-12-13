@@ -1,7 +1,7 @@
-site: Sidey
+site: JLC-ART
 url: #yoururl
-title: Sidey
-description: Simple and minimalistic jekyll blogging theme.
+title: JLC-ART
+description: Artworks Codex
 twitter:
   username: #yourusername
   card: summary
@@ -45,12 +45,13 @@ collections:
 defaults:
   -
     scope:
-      path: ""
+      path: "_contacts"
+      type: "contacts"
     values:
       layout: "default"
   -
     scope:
-      path: ""
+      path: "_pages"
       type: "pages"
     values:
       layout: "page"
