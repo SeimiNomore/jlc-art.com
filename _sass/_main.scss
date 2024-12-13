@@ -162,7 +162,7 @@ main {
 	
 	display:flex;
 	flex-wrap:wrap;
-	max-width:70rem;
+	max-width:40rem;
 	margin:2rem auto;
 	padding:1rem;
 }
@@ -191,8 +191,8 @@ nav ul {
 }
 
 section {
-	max-width:70rem;
-	width: 70rem;
+	max-width:40rem;
+	width: 40rem;
 	flex-basis:0;
 	flex-grow:999;
 	min-width:60%;
