@@ -24,7 +24,8 @@ With a focus on themes of mythology and untold historical perspectives, JLC-ART 
 <br>
 
 ![JLC](assets/img/JLC-art4.png)
-<br>
+
 <br>
 
-Photo J.L. Christian taken in 2023-09-23
+Photo J.L. Christian 
+taken in 2023-09-23
