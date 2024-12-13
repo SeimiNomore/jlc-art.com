@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<h1>Archives</h1>
+<div class="archive-container">
+  {% for post in site.posts %}
+    <div class="archive-item">
+      <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+      <p>{{ post.date | date: "%B %d, %Y" }}</p>
+      <p>{{ post.excerpt }}</p>
+    </div>
+  {% endfor %}
+</div>

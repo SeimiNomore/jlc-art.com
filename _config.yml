@@ -34,6 +34,10 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap  
 
+permalink: /tags/:tag/
+
+
+
 collections:
 
   pages:
