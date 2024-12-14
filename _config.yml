@@ -54,6 +54,7 @@ defaults:
       path: "_post"
       type: "posts"
     values:
+      layout: "posts"
       date:  last_modified_at
   - 
     scope:
