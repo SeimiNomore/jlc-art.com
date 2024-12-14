@@ -1,6 +1,6 @@
 # JLC-ART
 
-The art codex of J.L. Christian
+### The art codex of J.L. Christian
 
 
 
