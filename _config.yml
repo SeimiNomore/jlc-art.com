@@ -49,6 +49,12 @@ collections:
     permalink: /:year/:month/:day/:slug
   
 defaults:
+
+  -  scope:
+      path: "_post"
+      type: "posts"
+    values:
+      date:  last_modified_at
   - 
     scope:
       path: "archives"
@@ -76,10 +82,3 @@ defaults:
       type: "contacts"
     values:
       layout: "contacts"
-
-  -
-    scope:
-      path: "_post"
-      type: "posts"
-    values:
-      layout: "post"
