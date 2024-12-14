@@ -26,7 +26,7 @@ As the (**Phantom**) of Blues, Robert Johnson’s legacy is more than just his m
 Lee’s journey to becoming an urban legend began with this unyielding (**Love**). It wasn’t just about mastering an instrument; it was about making it speak. He could translate emotion into sound, pulling from the depths of joy, heartache, and everything in between.
 
 
-![Some kind of Blue](assets/img/some-kind-of-blue.webp)
+![Some kind of Blue](assets/img/Some-kind-of-Blue-Draft.jpg)
 **Some kind of Blue** | Collection - Phantom's of Blue - 2023 / Jan.
 
 ---
