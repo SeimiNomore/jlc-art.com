@@ -50,7 +50,8 @@ collections:
   
 defaults:
 
-  -  scope:
+  -  
+    scope:
       path: "_post"
       type: "posts"
     values:
