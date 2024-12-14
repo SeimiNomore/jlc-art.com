@@ -56,7 +56,7 @@ defaults:
       type: "posts"
     values:
       date: last_modified
-      layout: "posts"
+      
       
   - 
     scope:
