@@ -11,25 +11,25 @@ Forgive me, I'll go into depth later...
 <br>
 <br>
 
-![Devil's Shadow](assets/img/devils_shadow.webp)
+![Devil's Shadow](/assets/img/devils%20shadow.webp)
 **The Devil's Shadow** | Collection - Phantoms of Blue - 2023 Mar.
 
 ---
 
 As the (**Phantom**) of Blues, Robert Johnson’s legacy is more than just his music—it is an enduring symbol of how stories become legends, of how the unseen can captivate and inspire. His spirit continues to haunt the crossroads of history and myth, forever leaving behind an enigmatic trail that invites endless curiosity and speculation.
  
-![Morgan's Last Gig](assets/img/morgens_last_gig.webp)
+![Morgan's Last Gig](/assets/img/morgens%20last%20gig.webp)
 **Morgan's Last Gig** | Collection - Phantoms of Blue - 2023 / Feb.
 
 ---
 
 Lee’s journey to becoming an urban legend began with this unyielding (**Love**). It wasn’t just about mastering an instrument; it was about making it speak. He could translate emotion into sound, pulling from the depths of joy, heartache, and everything in between.
 
-![Some Kind of Blue](assets/img/some_kind_of_blue_draft.jpg)
+![Some Kind of Blue](/assets/img/some%20kind%20of%20blue%20draft.jpg)
 **Some Kind of Blue** | Collection - Phantoms of Blue - 2023 / Jan.
 
 ---
 
 This painting is a reflection of Davis’s life: a blend of triumph and turmoil, this process of an urban legend is (**Trauma**) genius and solitude. It captures the spirit of a man whose music transcended barriers, leaving a legacy that resonates long after the final note.
 
-![Some Kind of Blue](assets/img/some_kind_of_blue.jpg)
+![Some Kind of Blue](/assets/img/some_kind_of_blue.jpg)
