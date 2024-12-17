@@ -47,6 +47,10 @@ collections:
   posts:
     output: true
     permalink: /:year/:month/:day/:slug
+
+  archives: 
+    output: true
+    permalink: /:year/:month/:day/:slug
   
 defaults:
 
