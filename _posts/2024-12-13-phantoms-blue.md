@@ -11,7 +11,7 @@ Forgive me, I'll go into depth later...
 <br>
 <br>
 
-![Devil's Shadow](assets/img/Devils-Shadow.png)
+![Devil's Shadow](favicon.png)
 **The Devil's Shadow** | Collection - Phantoms of Blue - 2023 Mar.
 
 ---
