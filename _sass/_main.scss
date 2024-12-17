@@ -28,7 +28,8 @@ a {
 
 a:hover {
     color: rgb(224, 224, 228); /* Color when the mouse hovers over the link */
-    
+    font-weight: normal; /* Default weight */
+    transition: font-weight 0.2s ease; /* Smooth transition effect */
 } 
 
 pre {
