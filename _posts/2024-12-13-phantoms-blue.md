@@ -34,6 +34,3 @@ Lee’s journey to becoming an urban legend began with this unyielding (**Love**
 **Some Kind of Blue** | Collection - Phantoms of Blue - 2023 / Jan.
 
 ---
-
-
-
