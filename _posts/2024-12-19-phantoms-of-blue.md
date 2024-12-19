@@ -36,3 +36,4 @@ Lee’s journey to becoming an urban legend began with this unyielding (**Love**
 ---
 
 This painting is a reflection of Davis’s life: a blend of triumph and turmoil, this process of an urban legend is (**Trauma**) genius and solitude. It captures the spirit of a man whose music transcended barriers, leaving a legacy that resonates long after the final note.
+
