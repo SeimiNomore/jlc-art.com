@@ -23,7 +23,7 @@ Forgive me, I'll go into depth later...
 
 As the (**Phantom**) of Blues, Robert Johnson’s legacy is more than just his music—it is an enduring symbol of how stories become legends, of how the unseen can captivate and inspire. His spirit continues to haunt the crossroads of history and myth, forever leaving behind an enigmatic trail that invites endless curiosity and speculation.
  
-![Morgan's Last Gig](/JLC-ART/assets/img/assets/img/Morgens-Last-Gig.png)
+![Morgan's Last Gig](/JLC-ART/assets/img/Morgens-Last-Gig.png)
 **Morgan's Last Gig** | Collection - Phantoms of Blue - 2023 / Feb.
 
 ---
