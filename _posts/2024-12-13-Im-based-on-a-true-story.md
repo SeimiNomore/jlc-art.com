@@ -13,4 +13,6 @@ Through this process, I’ve realized that fine art has made me more thoughtful 
 
 The lastest collection is tilte "I'm based on a true story" I feel it resonates with everythihnhg that's happen to me. My whole life had been around art
 
+
 ![I'm Based on a True Story](/JLC-ART/assets/img/ImBasedonaTrueStory.jpg)
+*Photo by <a href="https://unsplash.com/@kmitchhodge?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">K. Mitch Hodge</a> on <a href="https://unsplash.com/collections/8725460/sky?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>*
