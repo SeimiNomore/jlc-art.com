@@ -14,7 +14,7 @@ Through this process, I’ve realized that fine art has made me more thoughtful 
 The lastest collection is tilte "I'm based on a true story" I feel it resonates with everythihnhg that's happen to me. My whole life had been around art
 
 
-![I'm Based on a True Story](/JLC-ART/assets/img/ImBasedonaTrueStory.png)
+![I'm Based on a True Story](/JLC-ART/assets/img/ImBasedOnATrueStory.jpg)
 
 
 ![Ace-Spectrum](/JLC-ART/assets/img/Ace-Spectrum.png)
