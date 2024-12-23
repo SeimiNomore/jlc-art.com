@@ -153,6 +153,7 @@ strong, b {
 	overflow:hidden;
 	text-overflow:ellipsis;
 	text-decoration: none;
+	font-weight: 500;
 }
 
 .posts li time, .projects li time {
@@ -205,7 +206,6 @@ section {
 	display:flex;
 	flex-direction:column;
 	line-height: 225%;
-	font-weight: 500;
 	
 }
 
