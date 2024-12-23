@@ -15,3 +15,6 @@ The lastest collection is tilte "I'm based on a true story" I feel it resonates 
 
 
 ![I'm Based on a True Story](/JLC-ART/assets/img/ImBasedonaTrueStory.png)
+
+
+![Ace-Spectrum](/assets/img/Ace-Spectrum.png)
