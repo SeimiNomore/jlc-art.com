@@ -1,7 +1,7 @@
 site: JLC-ART
-url: #yoururl
+url: https://seiminomore.github.io/JLC-ART/index.html
 title: JLC-ART
-description: This curated platform acts as both a museum and a compendium, consolidating his extensive body of work into a cohesive narrative. The site is a sophisticated hub for fine art collectors, enthusiasts, and historians alike, offering access to exclusive pieces, auction events, and detailed chronicles of J.L. Christian’s creative process.
+description: The JLC-ART Codex is a seamless and intriguing digital archive, presenting the evolving journey of Mr. J.L. Christian's artistic legacy. This curated platform acts as both a museum and a compendium, consolidating his extensive body of work into a cohesive narrative. Each page unveils the layers of esoteric themes, lore, mythos and historical dialogues that define his unique perspective as an artist.
 Beyond being a portfolio, the JLC-ART Codex serves as an interactive gateway to the Gumball Arcade Auction House, where high-stakes investment opportunities converge with the world of fine art.
 twitter:
   username: #yourusername
@@ -10,7 +10,7 @@ twitter:
 author:
   twitter: #yourusername
   name: #yourusername
-  avatar:
+  avatar: 
   email: #youremail
   url: #yoururl
 permalink: pretty
