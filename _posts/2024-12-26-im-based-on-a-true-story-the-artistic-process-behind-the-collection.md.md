@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I'm Based on a True story
+title: I'm Based On A True Story - The Artistic Process
 description: Art is rooted in my true passion. At times, it's difficult to articulate, but I’ve found it’s better to let it flow naturally. When I first considered art journaling, I thought it would be challenging to find freedom in my writing. Yet, to my surprise, it came effortlessly—almost as if I’d been waiting for this moment.
 summary: Art is rooted in my true passion. At times, it's difficult to articulate, but I’ve found it’s better to let it flow naturally.
 tags: [art, process]
