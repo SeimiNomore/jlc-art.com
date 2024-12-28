@@ -1,12 +1,247 @@
----
-layout: default
----
 
-<section class="posts">
-<ul>
-{% for post in site.posts %}
-<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%m-%d-%Y" }}</time></li>
-% endfor %}
-</ul>
-</section>
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>JLC</title>
+    <style>      
+      /* Fonts */
+      @import url('https://fonts.googleapis.com/css2?family=Faustina:ital,wght@0,300..800;1,300..800&family=Inknut+Antiqua:wght@300;400;500;600;700;800;900&display=swap');
+      /*  ******************* */
+
+      .scene{
+        display: flex;
+        justify-content: center;
+        padding:30px 55px;
+      }
+      .comingsoon{
+        max-width: 920px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      .pic img{
+        max-width:500px;
+        width:100%;
+        padding: 40px 0;
+      }
+
+      .jlcmenu{
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        justify-content: center;
+        gap: 20px;
+        margin-bottom:20px;
+      }
+      .jlcmenu a{
+        font-size: 13px;
+        font-family: sans-serif;
+        text-decoration: none;
+        color: black;
+      }
+
+      .passwordField .field:after{
+        box-shadow: 0 0 0 var(--inputs-border-width) #e7e7e78c !important;
+      }
+
+      .passwordField .field__label{
+        color: #e7e7e78c !important;
+      }
+
+      .passwordField .newsletter-form__button .icon{
+        color: #e7e7e78c;
+      }
+
+      @media (min-width: 1024px) {
+        /* DESKTOP VERSION OF TEXT */
+        .mobile-textContent{
+          display: none;
+        }
+        .textContent{
+          display: flex;
+          flex-direction: row;
+          gap:50px;
+        }
+        
+        .textContent .col1{
+          text-align: right;
+          max-width: 350px;
+        }
+        
+        .textContent .col1 h1{
+          font-size:15px;
+          font-family: times;
+          color: black;
+          font-weight: 100;
+          margin-top:39px;
+        }
+        .textContent .col1 p span{
+          display:block;
+          margin-top: 53px;
+          margin-bottom:27px;
+        }
+        .textContent .col1 p{
+          font-size: 12px;
+          font-family: "Faustina", serif;
+          font-optical-sizing: auto;
+          font-weight: normal;
+          font-style: italic;
+        }
+        .newsletter-form__field-wrapper{
+          max-width:500px;
+        }
+        .textContent .col2 h1{
+          font-size:25px;
+          font-family: "Faustina", serif;
+          font-optical-sizing: auto;
+          font-weight: normal;
+          font-style: italic;
+          margin-bottom:65px;
+          margin-top:25px;
+        }
+        
+        .textContent .col2 p{
+          font-size:15px;
+          font-family: "Faustina", serif;
+          font-optical-sizing: auto;
+          font-weight: light;
+          font-style: normal;
+        }
+      }
+
+      @media (max-width: 1023px) {
+        /* MOBILE VERSION OF TEXT */
+        .textContent{
+          display: none;  
+        }
+        
+        .mobile-textContent{
+          display: flex;
+          flex-direction: column;
+        }
+          
+        .mobile-textContent .presents{
+          text-align: center;
+          font-size:15px;
+          font-family: "Faustina", serif;
+          color: black;
+          font-weight: 100;
+          margin-top:58px;
+          margin-bottom:28px;
+        }
+        
+        .mobile-textContent .specialSet{
+          font-size: 12px;
+          font-family: "Faustina", serif;
+          font-optical-sizing: auto;
+          font-weight: normal;
+          font-style: italic;
+        }
+        
+        .mobile-textContent .headline{
+          font-size:25px;
+          font-family: "Faustina", serif;
+          font-optical-sizing: auto;
+          font-weight: normal;
+          font-style: italic;
+          margin-bottom:25px;
+          margin-top:0px;
+        }
+        
+        .mobile-textContent .general{
+          font-size:15px;
+          font-family: "Faustina", serif;
+          font-optical-sizing: auto;
+          font-weight: light;
+          font-style: normal;
+        }
+      }
+    </style>
+  </head>
+
+  <body class="password gradient">
+    
+    <div class="scene">
+      <div class="comingsoon">
+
+        <div class="jlcmenu">
+          <a href="/">Home</a>
+          <a href="https://seiminomore.github.io/JLC-Folio/" target="_blank">Portfolio</a>
+        </div>
+        <div class="pic">
+          <img src="https://cdn.shopify.com/s/files/1/0654/5984/7324/files/JLC.jpg?v=1728111732"/>
+        </div>
+        <div class="textContent">
+          <div class="col1">
+            <h1>J.L. CHRISTIAN Presents </h1>
+            <p class="about">
+              <span class="special">Distinguished Patrons,</span>
+              You are cordially invited to partake in an exclusive experience tailored to the true connoisseurs of fine art and investment. The Gumball Arcade Silent Auction House stands as a beacon for those with an eye for the exquisite and a heart attuned to the whispers of timeless narratives. We are not merely a marketplace; we are the vessel through which the untold stories of civilization's forgotten icons resurface, where artistry and enigma entwine.
+            </p>
+          </div>
+          <div class="col2">
+            <h1>Invitation to the Esteemed Gumball Arcade Silent Auction House</h1>
+            <p>
+              Each auction held within the walls of the Gumball Arcade is a journey—an event steeped in elegance and intrigue, designed to engage only the most discerning individuals who possess both intellect and taste. As a valued guest, your presence signifies not just participation but your alignment with a legacy of rarefied artistry and enduring prestige.
+              <br/><br/>
+              For the utmost privacy and fairness, our silent auctions are hosted on <a href="https://www.ebay.com/usr/gumballarcade" target="_blank">eBay</a>, ensuring an even playing field where art investors and aficionados alike can engage anonymously, shielded from prying eyes. This discreet platform maintains the integrity of each bidding process, allowing the art itself to be the true focus.
+              <br/><br/>
+              To ensure your privileged access to these silent auctions and updates, we invite you to enroll in our bespoke mailing list. This will provide you with timely information about upcoming auctions, exclusive previews, and first glimpses of the pieces that will soon ignite the passions of investors worldwide. Our correspondence, tailored with the utmost discretion, will serve as your compass within the labyrinthine realms of art and wealth.
+              <br/><br/>
+              Embark with us on this journey where your discerning taste meets unparalleled opportunity. Sign up below and secure your place among those who see beyond the canvas and into the profound essence of creation.
+            </p>
+          </div>
+        </div>
+
+        <div class="mobile-textContent">
+          
+          <h1 class="presents">J.L. CHRISTIAN Presents </h1>
+          
+          <h2 class="headline">Invitation to the Esteemed Gumball Arcade Silent Auction House</h2>
+          
+          <p class="specialSet">Distinguished Patrons,</p>
+          
+          <p class="specialSet">
+            You are cordially invited to partake in an exclusive experience tailored to the true connoisseurs of fine art and investment. The Gumball Arcade Silent Auction House stands as a beacon for those with an eye for the exquisite and a heart attuned to the whispers of timeless narratives. We are not merely a marketplace; we are the vessel through which the untold stories of civilization's forgotten icons resurface, where artistry and enigma entwine.
+          </p>
+          
+          <p class="general">
+            Each auction held within the walls of the Gumball Arcade is a journey—an event steeped in elegance and intrigue, designed to engage only the most discerning individuals who possess both intellect and taste. As a valued guest, your presence signifies not just participation but your alignment with a legacy of rarefied artistry and enduring prestige.
+            <br/><br/>
+            For the utmost privacy and fairness, our silent auctions are hosted on <a href="https://www.ebay.com/usr/gumballarcade" target="_blank">eBay</a>, ensuring an even playing field where art investors and aficionados alike can engage anonymously, shielded from prying eyes. This discreet platform maintains the integrity of each bidding process, allowing the art itself to be the true focus.
+            <br/><br/>
+            To ensure your privileged access to these silent auctions and updates, we invite you to enroll in our bespoke mailing list. This will provide you with timely information about upcoming auctions, exclusive previews, and first glimpses of the pieces that will soon ignite the passions of investors worldwide. Our correspondence, tailored with the utmost discretion, will serve as your compass within the labyrinthine realms of art and wealth.
+            <br/><br/>
+            Embark with us on this journey where your discerning taste meets unparalleled opportunity. Sign up below and secure your place among those who see beyond the canvas and into the profound essence of creation.
+          </p>
+        </div>
+        
+      </div>
+    </div>
+  </body>
+</html>
+Collapse
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
