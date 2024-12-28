@@ -1,12 +1,24 @@
+---
+layout: default
+title: home
+---
+
+<br>
+
+<p class="center">
+  [JLC-ART CODEX](https://example.com)
+</p>
+
+<br>
+<br>
+
 ![JLC-ART]/JLC-ART/JLC-card.png
 
 ##### J.L. CHRISTIAN Presents
 
-*Distinguished Patrons,
+*Distinguished Patrons,*
 
-You are cordially invited to partake in an exclusive experience tailored to the true connoisseurs of fine art and investment. The Gumball Arcade Silent Auction House stands as a beacon for those with an eye for the exquisite and a heart attuned to the whispers of timeless narratives. We are not merely a marketplace; we are the vessel through which the untold stories of civilization's forgotten icons resurface, where artistry and enigma entwine.*
-
-
+*You are cordially invited to partake in an exclusive experience tailored to the true connoisseurs of fine art and investment. The Gumball Arcade Silent Auction House stands as a beacon for those with an eye for the exquisite and a heart attuned to the whispers of timeless narratives. We are not merely a marketplace; we are the vessel through which the untold stories of civilization's forgotten icons resurface, where artistry and enigma entwine.**
 
 ### Invitation to the Esteemed Gumball Arcade Silent Auction House
 
