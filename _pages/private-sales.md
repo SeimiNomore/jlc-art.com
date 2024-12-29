@@ -12,6 +12,7 @@ description:
 **Contact a Private Sales Specialist**
 
 ***  
+<br>
 
 * Explore Mr. Christian's online gallery, expertly curated to highlight his most captivating works, available for immediate acquisition. Click [**Request Price**](#) to connect with a specialist and discover the full details of these extraordinary pieces.  
 
