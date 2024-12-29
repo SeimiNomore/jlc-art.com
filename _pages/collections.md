@@ -4,9 +4,8 @@ title: Collections
 description:
 ---
 
-
 | A-B |
-|----------|
+|-----|
 
 
 
@@ -31,7 +30,7 @@ British Drawings & Watercolours
 
 
 | C-D |
-|-----------|
+|-----|
 
 
 
