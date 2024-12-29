@@ -63,8 +63,15 @@
         -webkit-font-smoothing: antialiased;
         text-rendering: optimizeLegibility;
         text-decoration: none;
+        font-weight: 500%;
         color: black;
       }
+
+      a:hover {
+      color: rgb(224, 224, 228); /* Color when the mouse hovers over the link */
+      font-weight: bold; /* Default weight */
+      transition: font-weight 0.2s ease; /* Smooth transition effect */
+      } 
 
       .passwordField .field:after{
         box-shadow: 0 0 0 var(--inputs-border-width) #e7e7e78c !important;
