@@ -15,7 +15,7 @@ For inquiries about the artworks of Mr. J.L. Christian please contact Mr. Emerso
 
 ---
 
-#### Emerson Bell
+ Emerson Bell
  International Director, Head of Private Sales
-Contemporary Art & Modern Art
+ Contemporary Art & Modern Art
 ##### emerson.bell@gumballarcade.com
