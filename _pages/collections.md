@@ -6,6 +6,8 @@ description:
 
 **A-B**
 ---
+| AB |
+|------------------|
 
 African & Oceanic Art
 
@@ -25,8 +27,10 @@ Books & Manuscripts
 
 British Drawings & Watercolours
 
-**C-D**
----
+| **C-D** |
+|-----------------|
+
+
 
 
 Chinese Ceramics & Works of Art
