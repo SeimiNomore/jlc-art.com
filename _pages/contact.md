@@ -5,20 +5,20 @@ title: Contacts
 description:
 ---
 
-### For Art Inquiries and Connections
+<br>
+
+For inquiries about the artworks of Mr. J.L. Christian please contact Mr. Emerson Bell Gumball Arcade's  appointed lesion for Mr. Christian's art transactions to ensuring every request is met with professionalism and attention to detail.
+
+<br>
+<br>
+
+
 ---
 
-To inquire about the artworks of JLC-ART or to discuss collaborations, exhibitions, or investment opportunities, please reach out to **Emerson Bell**, the designated artist liaison for J.L. Christian. Emerson provides seamless communication and professional guidance, ensuring all inquiries are handled with care and precision.  
+#### Emerson Bell
 
-**Contact Emerson Bell directly for:**
-- Fine art inquiries  
-- Gumball Arcade Auction participation  
-- Private viewings and consultations  
-- Collaboration or representation requests  
+##### International Director, Head of Private Sales
 
+###### Contemporary Art & Modern Art
 
-**Reach Emerson Bell via:**
-*Contact Details:* 
-
-e. EmersonBell.GAAH.asst@gmail.com
-
+###### emerson.bell@gumballarcade.com
