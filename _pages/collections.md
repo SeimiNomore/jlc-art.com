@@ -4,7 +4,7 @@ title: Collections
 description:
 ---
 
-| AB |
+| A-B |
 |----------|
 
 African & Oceanic Art
@@ -25,7 +25,7 @@ Books & Manuscripts
 
 British Drawings & Watercolours
 
-| **C-D** |
+| C-D |
 |--------------|
 
 
