@@ -5,7 +5,6 @@ description:
 ---
 
 | **A-B** |
-|-------------|
 
 <br>
 
@@ -30,7 +29,6 @@ British Drawings & Watercolours
 
 
 | **C-D** |
-|-------------|
 
 <br>
 
