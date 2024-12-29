@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Departments
-
+title: Collections
 description:
 ---
