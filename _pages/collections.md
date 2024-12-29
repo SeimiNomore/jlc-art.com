@@ -26,7 +26,7 @@ Books & Manuscripts
 British Drawings & Watercolours
 
 | C-D |
-|--------------|
+|-----------|
 
 
 
