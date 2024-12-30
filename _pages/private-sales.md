@@ -30,7 +30,7 @@ For inquiries about the artworks of Mr. J.L. Christian please contact Mr. Emerso
 <br>
 <br>
 
-
+**Specialist Contact**
 ---
 <br>
  Emerson Bell
