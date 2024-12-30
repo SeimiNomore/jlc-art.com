@@ -19,3 +19,5 @@ description:
 * Throughout the year, we present exclusive thematic exhibitions dedicated to Christian’s art, held in private venues by invitation only. To attend these events, [**learn more**](#). These exhibitions offer collectors and enthusiasts a rare opportunity to experience his masterpieces in person.  
 
 * Have a specific piece by Mr. Christian in mind? [**Contact a Private Sales**](#) specialist to discuss your requirements.
+
+* [**Post-Sale Support**](https://) Our comprehensive suite of expert services is designed with your best interests in mind, guiding you seamlessly from the initial contractual agreement to the final payment completion.
