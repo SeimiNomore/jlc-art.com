@@ -163,6 +163,56 @@
           font-family: "Faustina", serif;
         }
 
+                .footer-menu {
+          background-color: #f8f9fa; /* Light background color */
+          padding: 20px 10px;
+          text-align: center;
+          font-family: "Faustina", serif;
+        }
+
+        .footer-nav {
+          margin-bottom: 15px;
+        }
+
+        .footer-links {
+          list-style: none;
+          padding: 0;
+          margin: 0;
+          display: flex;
+          justify-content: center;
+          gap: 20px; /* Spacing between links */
+        }
+
+        .footer-links li {
+          display: inline-block;
+        }
+
+        .footer-links a {
+          text-decoration: none;
+          color: #000;
+          font-size: 14px;
+          transition: color 0.3s ease;
+        }
+
+        .footer-links a:hover {
+          color: rgb(224, 224, 228); /* Change color on hover */
+          font-weight: bold;
+        }
+
+        .footer-info {
+          font-size: 12px;
+          color: #6c757d;
+          margin-top: 10px;
+        }
+
+        @media (max-width: 768px) {
+          .footer-links {
+            flex-direction: column;
+            gap: 10px; /* Adjust spacing for mobile */
+          }
+        }
+
+
 
       }
       
@@ -293,19 +343,19 @@
 
 
 
-    <div class="jlc-footnotes">
-      <nav class="footnotes-general">
-        <ul>
-          <li><a href="#section1">Section 1: Introduction</a></li>
-          <li><a href="#section2">Section 2: Gallery</a></li>
-          <li><a href="#section3">Section 3: Portfolio</a></li>
-          <li><a href="#section4">Section 4: Contact</a></li>
+    <footer class="footer-menu">
+      <nav class="footer-nav">
+        <ul class="footer-links">
+          <li><a href="#home">Home</a></li>
+          <li><a href="#about">About</a></li>
+          <li><a href="#portfolio">Portfolio</a></li>
+          <li><a href="#contact">Contact</a></li>
         </ul>
-        
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ultricies augue eu nisi egestas porttitor. Curabitur vitae dignissim odio. Donec justo orci, dapibus vitae nulla at, porttitor consequat dolor. Nunc sodales eros eu eros porta porta. Curabitur sed lorem pharetra, malesuada lacus ac, dictum arcu. Nulla convallis, risus quis luctus feugiat, erat eros tincidunt purus, ut tristique elit ipsum eget augue. Etiam arcu mauris, facilisis ac tellus a, varius posuere nisi.
-      
-       </nav>
-    </div>
+      </nav>
+      <p class="footer-info">
+        &copy; 2024 J.L. Christian. All rights reserved. Crafted with creativity and care.
+      </p>
+    </footer>
 
 
 
