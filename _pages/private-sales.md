@@ -21,3 +21,23 @@ description:
 * Have a specific piece by Mr. Christian in mind? [**Contact a Private Sales**](#) specialist to discuss your requirements.
 
 * [**Post-Sale Support**](https://) Our comprehensive suite of expert services is designed with your best interests in mind, guiding you seamlessly from the initial contractual agreement to the final payment completion.
+
+---
+<br>
+<br>
+
+For inquiries about the artworks of Mr. J.L. Christian please contact Mr. Emerson Bell Gumball Arcade's  appointed lesion for Mr. Christian's art transactions to ensuring every request is met with professionalism and attention to detail.
+
+<br>
+<br>
+
+
+---
+<br>
+ Emerson Bell
+ 
+ *International Director, Head of Private Sales*
+
+ Contemporary Art & Modern Art
+
+##### emerson.bell@gumballarcade.com
