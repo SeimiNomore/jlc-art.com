@@ -1,5 +1,5 @@
-site: JLC-ART
-url: https://JLC-ART.com
+site: 
+url: https://.com
 title: JLC-ART
 description: The JLC-ART Codex is a digital archive showcasing Mr. J.L. Christian's artistic journey, blending his work with themes of lore, mythos, and history. Acting as both a museum and a portfolio, it offers an interactive gateway to the Gumball Arcade Auction House, connecting fine art with high-stakes investment opportunities.
 userpicture: https://seiminomore.github.io/JLC-card.png
@@ -17,7 +17,7 @@ author:
 
 permalink: pretty
 
-baseurl: "/JLC-ART"
+baseurl: "/"
 
 highlighter: none
 
