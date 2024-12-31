@@ -1,5 +1,5 @@
 ---
 layout: archive
 title: Archives
-permalink: /JLC-ART/_archives/
+permalink: /_archives/
 ---
