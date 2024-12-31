@@ -9,5 +9,5 @@ image: /JLC-ART/assets/images/my-image.jpg
   {{ content }}
 
   <span class="meta"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time> &middot; {% for tag in page.tags %}
-    <a href="/JLC-ART/_post/tag/{{tag}}">{{tag}}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</span>
+    <a href="/_post/tag/{{tag}}">{{tag}}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</span>
 </section>
