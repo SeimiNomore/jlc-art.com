@@ -1,13 +1,13 @@
 links:
 - title: Bulletin
-  url: jlc-art.co
+  url: jlc-art.com
 - title: Index
   url: /codex
 - title: About
-  url: /JLC-ART/about.html
+  url: /about
 - title: Private-Sales
-  url: /JLC-ART/private-sales.html
+  url: /private-sales
 - title: Search
-  url: /JLC-ART/search.html
+  url: /search
 - title: Rss
-  url: /JLC-ART/atom.xml
+  url: /atom.xml
