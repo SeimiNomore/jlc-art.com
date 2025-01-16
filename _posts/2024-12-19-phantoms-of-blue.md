@@ -4,7 +4,7 @@ title: Phantoms of Blue
 description: A depiction of how an urban legend is created
 summary: Three paintings of Jazz and Blues greats
 comments: true
-tags: [painting, jazz, blues]
+tags: painting jazz blues
 ---
 
 

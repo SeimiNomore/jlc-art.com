@@ -1,3 +1,12 @@
+---
+layout: post
+title: Trumpet over Giza 1961 Blue
+description: Armstrong’s presence in 1961 and the process of the creation of my art behind it.
+summary: Inprogress the collection/ Veil of the Sphinx
+comments: true
+tags: painting jazz Giza LoiusArmstrong Trumpet
+---
+
 <br>
 
 ![Trumpet over Giza Blue](/assets/img/Trumpet_over_Giza-Blue.jpg)
