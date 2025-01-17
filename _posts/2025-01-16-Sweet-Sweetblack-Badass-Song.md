@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Sweet Sweetblack Badass Song
-description: Collection - Muse 2 - 2023 / Mar.ths of identity—both hers and my own.
-summary: Her gaze became my anchor
+description: Collection - Sepia - 2023 / Mar.ths of identity—both hers and my own.
+summary: In this process, I’ve drawn a comparison that feels almost mythical, yet grounded in the lived experience of resilience.
 comments: true
-tags: fashion self-expression women-essence
+tags: KodakBlack self-expression SweetsweetblacksBadassSong 
 ---
 
 ![Sweet Sweetblack Badass Song](/assets/img/Sweet_Sweetblacks_Baadasssss_Song.jpg)
