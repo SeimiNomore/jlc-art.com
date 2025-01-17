@@ -7,7 +7,7 @@ comments: true
 tags: painting jazz blues
 ---
 
-*Phantoms of Blue* is a mesmerizing fine art collection that honors the lives and legacies of three iconic jazz musicians: Lee Morgan, Miles Davis, and Robert Johnson. Each piece invites the viewer to delve deeper into their stories, uncovering how love, trauma, and personal transformation wove through their music and shaped their cultural impact.
+**Phantoms of Blue** is a mesmerizing fine art collection that honors the lives and legacies of three iconic jazz musicians: Lee Morgan, Miles Davis, and Robert Johnson. Each piece invites the viewer to delve deeper into their stories, uncovering how love, trauma, and personal transformation wove through their music and shaped their cultural impact.
 
 <br>
 
