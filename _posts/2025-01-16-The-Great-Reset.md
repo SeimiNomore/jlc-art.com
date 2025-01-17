@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Great Reset | Collection - Spooky - 2023 / Jan.
+title: The Great Reset
 description: Art is rooted in my true passion. At times, it's difficult to articulate, but I’ve found it’s better to let it flow naturally. When I first considered art journaling, I thought it would be challenging to find freedom in my writing. Yet, to my surprise, it came effortlessly—almost as if I’d been waiting for this moment.
 summary: Art is rooted in my true passion. At times, it's difficult to articulate, but I’ve found it’s better to let it flow naturally.
 tags: art process
