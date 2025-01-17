@@ -13,7 +13,7 @@ tags: painting jazz Giza LoiusArmstrong Trumpet
 **Trumpet over Giza 1961 Blue** | Collection - Veil of the Sphinx 2024 / Apr.
 
 ---
-
+<br>
 **The Trumpet as Alignment**  
 
 The trumpet felt like alignment, I thought—a connection between stars and structures, sound and silence. Did Armstrong’s presence in **1961** whisper something beyond music, a resonance tied to the cosmos?  

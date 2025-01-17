@@ -13,7 +13,7 @@ tags: fashion self-expression women-essence
 ---
 
 **Art Journal Entry: The Penthouse Muse**  
-
+<br>
 As I worked on this piece, my thoughts never strayed far from her—a woman standing by her penthouse window, immersed in her own quiet world. There was something in the way she stood, an unspoken energy that drew me in. It wasn’t just her beauty, though that was undeniable; it was her presence—commanding yet effortless, as if the world outside that window paused just for her.  
 <br>
 This piece belongs to my *Muse* collection, a series inspired by individuals who seem to hold an intangible gravity, pulling everyone in without saying a word. She became my focal point, the embodiment of quiet power and elegance. Every brushstroke aimed to honor her essence—the curve of her silhouette, the light falling just right to highlight her strength and softness.  

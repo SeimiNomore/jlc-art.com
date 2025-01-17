@@ -7,7 +7,7 @@ tags: [art, process]
 ---
 
 **Based on a True Story: The Artistic Process Behind the Collection**  
-
+<br>
 Art is an extension of passion—a feeling so deep it often defies explanation. For many artists, including myself, the process of creation is just as important as the final piece. My latest collection, **“I’m Based on a True Story,”** is a reflection of this journey, capturing raw emotion, lived experiences, and the complexity of love in all its forms.  
 
 This collection isn’t just about what’s on the canvas. It’s about the process that brought each piece to life—the moments of inspiration, the challenges, and the discoveries along the way.  

@@ -20,7 +20,7 @@ Forgive me, I'll go into depth later...
 **The Devil's Shadow** | Collection - Phantoms of Blue - 2023 Mar.
 
 ---
-
+<br>
 As the (**Phantom**) of Blues, Robert Johnson’s legacy is more than just his music—it is an enduring symbol of how stories become legends, of how the unseen can captivate and inspire. His spirit continues to haunt the crossroads of history and myth, forever leaving behind an enigmatic trail that invites endless curiosity and speculation.
  
 ![Morgan's Last Gig](/assets/img/Morgens-Last-Gig.png)
