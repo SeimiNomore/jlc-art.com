@@ -7,7 +7,7 @@ comments: true
 tags: fashion self-expression women-essence
 ---
 
-![Penthouse](assets/img/Penthouse.png)
+![Penthouse](/assets/img/Penthouse.png)
 **Penthouse** | Collection - Muse 2 - 2023 / Mar.
 
 ---
