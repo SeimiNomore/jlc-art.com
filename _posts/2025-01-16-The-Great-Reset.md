@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The Great Reset
-description: Art is rooted in my true passion. At times, it's difficult to articulate, but I’ve found it’s better to let it flow naturally. When I first considered art journaling, I thought it would be challenging to find freedom in my writing. Yet, to my surprise, it came effortlessly—almost as if I’d been waiting for this moment.
-summary: Art is rooted in my true passion. At times, it's difficult to articulate, but I’ve found it’s better to let it flow naturally.
-tags: art process
+description: This piece is part of my ongoing *Spooky* collection, a body of work where I explore the delicate tension between the unknown and the transformative power of darkness.
+summary: The figure, obscured and faceless, emerged almost instinctively—a reflection of the anonymity we sometimes crave in moments of uncertainty.
+tags: art process spooky reset antiquity
 --- 
 
 ![The Great Reset](/assets/img/The%20Great%20Reset.jpg)
