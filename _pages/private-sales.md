@@ -4,6 +4,17 @@ title: Private Sales
 description: 
 ---
 
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XRKG786EVH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-XRKG786EVH');
+</script>
+
 <script async type='text/javascript' src='https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=UkrUM5'></script>
 
 **Gumball’s Private Sales** offers an exclusive, tailored experience for acquiring fine art and limited prints from Mr. J.L. Christian's collection beyond the conventional Gumball auction setting. This service provides discerning collectors and enthusiasts with the opportunity to engage in discreet, curated transactions, ensuring privacy and personalized attention. Whether you're seeking a rare masterpiece or a unique limited-numbered print, Gumball’s Private Sales connects you directly with unparalleled pieces, fostering meaningful relationships between art, artist, and collector in an intimate, sophisticated environment.
