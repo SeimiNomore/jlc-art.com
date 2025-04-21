@@ -4,6 +4,14 @@ title: Codex
 description:
 ---
 
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-XRKG786EVH');
+</script>
+
 <section class="posts">
 <ul>
 {% for post in site.posts %}
